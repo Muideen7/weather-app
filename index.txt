@@ -1,5 +1,7 @@
-weatherio
-weatherio is a weather app made by codewithsadee
+MunaCast
+Accurate forecasts at your fingertips.
+Stay informed with real-time weather updates and make confident decisions.
+made by frontendgeek 
 
 
 
@@ -13,8 +15,12 @@ placeholder = Search city...
 
 <span class="m-icon">arrow_back</span>
 
-London
-GB
+<span class="m-icon">location_on</span>
+
+<span class="m-icon">my_location</span>
+
+Lagos
+Nigeria
 
 Current Location
 
@@ -32,7 +38,7 @@ Overcast Clouds
 Thursday 16, Feb
 
 <span class="m-icon">location_on</span>
-London, GB
+Lagos, NG
 
 
 
