@@ -316,7 +316,7 @@ body {
 }
 
 .logo img {
-  width: 150px;
+  width: 75px;
 }
 
 .header .container,
@@ -353,11 +353,36 @@ body {
   transition: clip-path 500ms ease;
 }
 
-.search-view.active {
+.search-view.active{
   opacity: 1;
   visibility: visible;
   clip-path: circle(130% at 73% 5%);
 }
+
+.search-wrapper{
+  position: relative;
+  border-block-end: 1px solid var(--outline);
+}
+
+.search-wrapper::before{
+  content: "";
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 16px;
+  width: 24px;
+  height: 24px;
+  border: 3px solid var(--on-surface);
+  border-block-start-color: transparent;
+  border-radius: var(--radius-circle);
+  animation: loading 500ms linear infinite;
+  display: none;
+}
+
+
+
+
+
 
 /*-----------------------------------*\
   #CURRENT WEATHER
