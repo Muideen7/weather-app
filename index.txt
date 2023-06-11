@@ -35,7 +35,7 @@ Now
 Overcast Clouds
 
 <span class="m-icon">calendar_today</span>
-Thursday 16, Feb
+Saturday 10, June
 
 <span class="m-icon">location_on</span>
 Lagos, NG
@@ -77,11 +77,11 @@ Today at
 #---------- FORECAST ----------#
 
 5 Days Forecast
+alt= Overcast Clouds
+25
 
-25
-25
-17 Feb
-Friday
+11 June
+Sunday
 
 
 
